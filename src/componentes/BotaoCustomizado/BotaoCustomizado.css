@@ -1,0 +1,10 @@
+.BotaoCustomizado_root {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.BotaoCustomizado_root:houver {
+    opacity: 0.9;
+}
