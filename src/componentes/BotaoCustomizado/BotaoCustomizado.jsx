@@ -15,7 +15,7 @@ function BotaoCustomizado(props) {
 
 
     return (
-        <button className= {classes.join("")} onClick={props.aoClicar}>
+        <button className= {classes.join("")} onClick={props.aoClicar}>''
             {props.children}
         </button>
     )
